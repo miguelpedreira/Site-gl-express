@@ -5,8 +5,8 @@
 }
 body {
   font-family: "Segoe UI", Arial, sans-serif;
-  background: #3027a8
-  background-image:./img/transito-em-SP.pjg;
+  background: #cecdd8
+  
 }
 .topo {
   display: flex;
