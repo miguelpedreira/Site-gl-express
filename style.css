@@ -13,9 +13,9 @@ body {
   align-items: center;
   justify-content: center;
   gap: 30px;
-  background: rgb(78, 87, 105);
+  background: rgb(49, 98, 196);
   padding: 15px 20px;
-  border-radius: 18px;
+  border-radius: 15px;
   flex-wrap: wrap;
 }
 .logo-topo {
@@ -32,14 +32,14 @@ body {
 }
 .topo nav ul li {
   margin-left: 30px;
-  color: #fff;
+  color: #360505;
   font-weight: bold;
   font-size: 1.1rem;
   cursor: pointer;
-  transition: color 0.3s;
+  transition: color 0.1s;
 }
 .topo nav ul li:hover {
-  color: #855f0e;
+  color: #48b511;
 }
 .conteudo-linha {
   display: flex;
@@ -138,6 +138,12 @@ p {
   text-align: center;
   padding: 20px;
   margin-top: 4px;
+}
+.sumario-sobre{
+  background: rgb(90, 185, 217);
+  font-size: 14px;
+  height: 100vh;
+  
 }
 @media (max-width: 900px) {
   .conteudo-linha {
